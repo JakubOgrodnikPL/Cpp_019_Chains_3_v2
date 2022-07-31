@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646161088 source:c:\users\jakub\documents\019_chains_3\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
